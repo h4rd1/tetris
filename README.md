@@ -32,20 +32,6 @@
     Создайте виртуальное окружение (рекомендуется):
     bash
 
-python -m venv venv
-
-Активируйте окружение:
-
-    Windows:
-    cmd
-
-venv\Scripts\activate
-
-macOS/Linux:
-bash
-
-    source venv/bin/activate
-
 Установите зависимости:
 bash
 
@@ -58,7 +44,7 @@ bash
     Запустите игру:
     bash
 
-    python main.py
+    python tetris.py
 
 Управление
 
